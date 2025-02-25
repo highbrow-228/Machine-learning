@@ -5,7 +5,7 @@
 ### 4. [Decision trees](/Лабораторна_робота_№4/lab04_decision_tree.ipynb)
 ### 5. [Ensemble learning](/Лабораторна_робота_№5/lab05_ensemle_learning.ipynb)
 ### 6. [Extracting features from images](/Лабораторна_робота_№6/lab06_extracting_features_from_images.ipynb)
-
+### 7. [Natural language processing](/Лабораторна_робота_№7/lab07_natural_language_processing.ipynb)
 
 ## How to launch this labs:
 
