@@ -1,10 +1,10 @@
 # Laboratory work on the subject of machine learning.
-### 1. [Cluster analysis](/Лабораторна%20робота%20№1/lab01_clustering.ipynb)
-### 2. [Regularization linear regression models](/Лабораторна%20робота%20№2/lab02_regularization.ipynb)
-### 3. [Support vector machines (SVM)](/Лабораторна%20робота%20№3/lab03_svm.ipynb)
-### 4. [Decision trees](/Лабораторна%20робота%20№4/lab04_decision_tree.ipynb)
-### 5. [Ensemble learning](/Лабораторна%20робота%20№5/lab05_ensemle_learning.ipynb)
-### 6. [Soon]()
+### 1. [Cluster analysis](/Лабораторна_робота_№1/lab01_clustering.ipynb)
+### 2. [Regularization linear regression models](/Лабораторна_робота_№2/lab02_regularization.ipynb)
+### 3. [Support vector machines (SVM)](/Лабораторна_робота_№3/lab03_svm.ipynb)
+### 4. [Decision trees](/Лабораторна_робота_№4/lab04_decision_tree.ipynb)
+### 5. [Ensemble learning](/Лабораторна_робота_№5/lab05_ensemle_learning.ipynb)
+### 6. [Extracting features from images](/Лабораторна_робота_№6/lab06_extracting_features_from_images.ipynb)
 
 
 ## How to launch this labs:
